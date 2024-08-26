@@ -212,10 +212,12 @@ header {
     transition: var(--transition);
 }
 
+/********************************
 .category:hover {
     border-radius: 2rem 0 2rem 0;
     box-shadow: 0 1rem 0 1rem rgba(0, 0, 0, 0.3);
 }
+    */
 
 .category-icon {
     background: var(--color-primary);
@@ -618,11 +620,12 @@ footer ul li a:hover {
         border-radius: 0 1rem 0 1rem;
     }
 
+    /*
     .category:hover {
         border-radius: 0.8rem 0 0.8rem 0;
         box-shadow: 0 0.8rem 0 0.8rem rgba(0, 0, 0, 0.2);
     }
-
+        */
     .category-icon {
         margin-top: 4px;
         display: inline-block;
